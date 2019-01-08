@@ -1,5 +1,5 @@
 import * as C from './constant'
-
+//test
 const padStart = (string, length, pad) => {
   const s = String(string)
   if (!s || s.length >= length) return string
